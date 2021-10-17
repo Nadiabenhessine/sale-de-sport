@@ -1,0 +1,24 @@
+.cour-item{
+	margin: 30px;
+	display: flex;
+	flex-direction: column;
+    border: black 1px solid;
+    height: 400px;
+	width: 40%;
+	border-radius: 1px 1px 30px 30px;
+	display: flex;
+}
+.cour-name{
+    text-align: center;
+	color: black;
+}
+
+button{
+	background-color: red;
+	color: white;
+	border: 1px solid red;
+	border-radius: 10px;
+	max-width: 50%;
+	margin-bottom: 10px;
+	margin: auto;
+}

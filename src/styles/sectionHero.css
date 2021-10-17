@@ -1,0 +1,21 @@
+.sectionHeroStyle {
+    text-align: center;
+    background-color: black;
+
+}
+.sectionHeroStyle h1 , h3{
+    color: white;
+    padding-top: 30px;
+    
+}
+.sectionHeroStyle button{
+    background-color: rgb(139, 6, 6) ;
+    color: white;
+    border: 1px rgb(139, 6, 6)  solid;
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 40px;
+}
